@@ -1,0 +1,25 @@
+:root{
+    --bg-blue: #93B5C9;
+    --bg-wine: #AB2849;
+}
+
+div{
+    background-color: aquamarine;
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin: 5em;
+}
+
+section{
+    background-color: blue;
+    width: 300px;
+    height: 150px;
+    float: right;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image: url(path);
+    background-position: center center;
+    z-index: -1;
+    margin: 5em;
+}
